@@ -1,4 +1,4 @@
-import numpy as np
+
 from imblearn.over_sampling import SMOTE
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
@@ -17,6 +17,7 @@ import pandas as pd
 import pyarrow.parquet as pq
 from io import BytesIO
 import boto3
+import numpy as np
 from sklearn.metrics import accuracy_score
 from dotenv import load_dotenv
 
