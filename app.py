@@ -3,7 +3,8 @@ import streamlit as st
 import subprocess
 import pandas as pd
 import os
-import numpy as mp
+import numpy as np
+
 
 
 
