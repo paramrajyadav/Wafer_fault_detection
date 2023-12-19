@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/7b6bd80ae1eb4ee6bbb0d9c6776e5b4c/artifacts
+end_time: 1702960912553
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 7b6bd80ae1eb4ee6bbb0d9c6776e5b4c
+run_name: skittish-auk-564
+run_uuid: 7b6bd80ae1eb4ee6bbb0d9c6776e5b4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960912463
+status: 3
+tags: []
+user_id: awscl

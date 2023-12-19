@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/9c9806933c624182951e899be29b327e/artifacts
+end_time: 1702910666784
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 9c9806933c624182951e899be29b327e
+run_name: legendary-crane-814
+run_uuid: 9c9806933c624182951e899be29b327e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910666417
+status: 3
+tags: []
+user_id: awscl

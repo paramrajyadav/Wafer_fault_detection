@@ -1,0 +1,58 @@
+name: Build and Push Docker image to AWS ECR
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build_and_push:
+    runs-on: ubuntu-latest
+
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      AWS_REGION: your-aws-region
+      AWS_ECR_REGISTRY: your-account-id.dkr.ecr.your-aws-region.amazonaws.com
+      S3_BUCKET: ${{ secrets.S3_BUCKET }}
+      DOCKER_HUB_USERNAME: ${{ secrets.DOCKER_HUB_USERNAME }}
+      DOCKER_HUB_PASSWORD: ${{ secrets.DOCKER_HUB_PASSWORD }}
+      DOCKER_HUB_REPO: thisisrajyadav/wafer
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Build Docker image
+      run: |
+        docker build \
+          --build-arg AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID} \
+          --build-arg AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY} \
+          --build-arg S3_BUCKET=${S3_BUCKET} \
+          -t wafer .
+
+
+
+    
+    
+    - name: Login to Docker Hub
+      run: docker login -u ${{ env.DOCKER_HUB_USERNAME }} -p ${{ env.DOCKER_HUB_PASSWORD }}
+
+    - name: Tag Docker image for Docker Hub
+      run: docker tag wafer ${{ env.DOCKER_HUB_REPO }}:latest
+
+    - name: Push Docker image to Docker Hub
+      run: docker push ${{ env.DOCKER_HUB_REPO }}:latest
+
+
+      
+
+    - name: Login to AWS ECR
+      run: |
+        aws ecr get-login-password --region ${{ env.AWS_REGION }} | docker login --username AWS --password-stdin ${{ env.AWS_ECR_REGISTRY }}
+
+    - name: Tag Docker image
+      run: docker tag your-image-name ${{ env.AWS_ECR_REGISTRY }}/your-repository-name:latest
+
+    - name: Push Docker image to AWS ECR
+      run: docker push ${{ env.AWS_ECR_REGISTRY }}/your-repository-name:latest

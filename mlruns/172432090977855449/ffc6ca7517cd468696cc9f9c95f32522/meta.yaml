@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/ffc6ca7517cd468696cc9f9c95f32522/artifacts
+end_time: 1702966692341
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: ffc6ca7517cd468696cc9f9c95f32522
+run_name: vaunted-perch-7
+run_uuid: ffc6ca7517cd468696cc9f9c95f32522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966692219
+status: 3
+tags: []
+user_id: awscl

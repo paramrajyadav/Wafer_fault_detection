@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/78d7e9f5db7a45a3bca22eda31cddc0b/artifacts
+end_time: 1702968174053
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 78d7e9f5db7a45a3bca22eda31cddc0b
+run_name: polite-ape-433
+run_uuid: 78d7e9f5db7a45a3bca22eda31cddc0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968173939
+status: 3
+tags: []
+user_id: awscl

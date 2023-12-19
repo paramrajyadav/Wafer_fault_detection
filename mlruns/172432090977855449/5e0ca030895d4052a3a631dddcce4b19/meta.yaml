@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/5e0ca030895d4052a3a631dddcce4b19/artifacts
+end_time: 1702967641458
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 5e0ca030895d4052a3a631dddcce4b19
+run_name: useful-bat-448
+run_uuid: 5e0ca030895d4052a3a631dddcce4b19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702967641342
+status: 3
+tags: []
+user_id: awscl

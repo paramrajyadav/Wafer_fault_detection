@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/8c915f539a84440d8dcc5e66cbb2ec29/artifacts
+end_time: 1702910695265
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 8c915f539a84440d8dcc5e66cbb2ec29
+run_name: glamorous-deer-466
+run_uuid: 8c915f539a84440d8dcc5e66cbb2ec29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910695176
+status: 3
+tags: []
+user_id: awscl

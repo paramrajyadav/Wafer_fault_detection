@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/8678b1ea1c1a451a93b5271375edaa35/artifacts
+end_time: 1702961016323
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 8678b1ea1c1a451a93b5271375edaa35
+run_name: capable-ant-645
+run_uuid: 8678b1ea1c1a451a93b5271375edaa35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702961016220
+status: 3
+tags: []
+user_id: awscl

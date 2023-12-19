@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/45922177a5d94aa695cc59024399aafb/artifacts
+end_time: 1702964048232
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 45922177a5d94aa695cc59024399aafb
+run_name: trusting-toad-820
+run_uuid: 45922177a5d94aa695cc59024399aafb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702964048015
+status: 3
+tags: []
+user_id: awscl

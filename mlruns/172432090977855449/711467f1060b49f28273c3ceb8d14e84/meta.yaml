@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/711467f1060b49f28273c3ceb8d14e84/artifacts
+end_time: 1702961913854
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 711467f1060b49f28273c3ceb8d14e84
+run_name: honorable-cub-816
+run_uuid: 711467f1060b49f28273c3ceb8d14e84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702961913726
+status: 3
+tags: []
+user_id: awscl

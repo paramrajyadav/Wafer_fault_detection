@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/d68e5d171e1a450a964aa78236e6b88f/artifacts
+end_time: 1702967383277
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: d68e5d171e1a450a964aa78236e6b88f
+run_name: handsome-ant-393
+run_uuid: d68e5d171e1a450a964aa78236e6b88f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702967383116
+status: 3
+tags: []
+user_id: awscl

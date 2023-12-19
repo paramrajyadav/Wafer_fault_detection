@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/6cad375229b0441c8e1cc500d4a24a03/artifacts
+end_time: 1702961024347
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 6cad375229b0441c8e1cc500d4a24a03
+run_name: incongruous-gnat-785
+run_uuid: 6cad375229b0441c8e1cc500d4a24a03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702961024229
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/107cff9b57f54d75b9e77ee638fb7d38/artifacts
+end_time: 1702967030558
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 107cff9b57f54d75b9e77ee638fb7d38
+run_name: handsome-crab-951
+run_uuid: 107cff9b57f54d75b9e77ee638fb7d38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702967030437
+status: 3
+tags: []
+user_id: awscl

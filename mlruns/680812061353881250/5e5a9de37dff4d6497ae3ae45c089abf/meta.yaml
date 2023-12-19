@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/5e5a9de37dff4d6497ae3ae45c089abf/artifacts
+end_time: 1702966381932
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 5e5a9de37dff4d6497ae3ae45c089abf
+run_name: painted-mink-959
+run_uuid: 5e5a9de37dff4d6497ae3ae45c089abf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966381831
+status: 3
+tags: []
+user_id: awscl

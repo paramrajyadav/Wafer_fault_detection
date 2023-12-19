@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/8c9743a1433e4c42bf54a5ab0eedeac9/artifacts
+end_time: 1702966043380
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 8c9743a1433e4c42bf54a5ab0eedeac9
+run_name: abrasive-sow-739
+run_uuid: 8c9743a1433e4c42bf54a5ab0eedeac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966043242
+status: 3
+tags: []
+user_id: awscl

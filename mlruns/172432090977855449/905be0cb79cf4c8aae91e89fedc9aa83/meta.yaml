@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/905be0cb79cf4c8aae91e89fedc9aa83/artifacts
+end_time: 1702966783579
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 905be0cb79cf4c8aae91e89fedc9aa83
+run_name: unequaled-ape-919
+run_uuid: 905be0cb79cf4c8aae91e89fedc9aa83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966783458
+status: 3
+tags: []
+user_id: awscl

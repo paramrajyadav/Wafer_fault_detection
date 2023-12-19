@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/1872bc44a3d440908af4b77b88300652/artifacts
+end_time: 1702966266823
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 1872bc44a3d440908af4b77b88300652
+run_name: loud-cow-738
+run_uuid: 1872bc44a3d440908af4b77b88300652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966266716
+status: 3
+tags: []
+user_id: awscl

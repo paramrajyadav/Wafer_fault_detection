@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/009759a92f754ae6900ea4c20c2d44f6/artifacts
+end_time: 1702910699856
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 009759a92f754ae6900ea4c20c2d44f6
+run_name: angry-bass-717
+run_uuid: 009759a92f754ae6900ea4c20c2d44f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910699767
+status: 3
+tags: []
+user_id: awscl

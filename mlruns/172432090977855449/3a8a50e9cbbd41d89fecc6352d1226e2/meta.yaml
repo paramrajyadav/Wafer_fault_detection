@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/3a8a50e9cbbd41d89fecc6352d1226e2/artifacts
+end_time: 1702961336977
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 3a8a50e9cbbd41d89fecc6352d1226e2
+run_name: loud-gnu-160
+run_uuid: 3a8a50e9cbbd41d89fecc6352d1226e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702961336848
+status: 3
+tags: []
+user_id: awscl

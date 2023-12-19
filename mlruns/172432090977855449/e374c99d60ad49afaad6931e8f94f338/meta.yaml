@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/e374c99d60ad49afaad6931e8f94f338/artifacts
+end_time: 1702968178145
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: e374c99d60ad49afaad6931e8f94f338
+run_name: resilient-gnu-694
+run_uuid: e374c99d60ad49afaad6931e8f94f338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968178026
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/c6681fe9727440aea5d8f83663571268/artifacts
+end_time: 1702910678683
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: c6681fe9727440aea5d8f83663571268
+run_name: luxuriant-rat-915
+run_uuid: c6681fe9727440aea5d8f83663571268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910678606
+status: 3
+tags: []
+user_id: awscl

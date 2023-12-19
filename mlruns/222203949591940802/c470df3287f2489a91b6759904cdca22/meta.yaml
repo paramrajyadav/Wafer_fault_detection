@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/c470df3287f2489a91b6759904cdca22/artifacts
+end_time: 1702910662131
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: c470df3287f2489a91b6759904cdca22
+run_name: adventurous-crab-123
+run_uuid: c470df3287f2489a91b6759904cdca22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910662024
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/bcb1673317094792b399c74bda694757/artifacts
+end_time: 1702960893985
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: bcb1673317094792b399c74bda694757
+run_name: big-bee-495
+run_uuid: bcb1673317094792b399c74bda694757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960893862
+status: 3
+tags: []
+user_id: awscl

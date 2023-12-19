@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/9e3adf74faa64a0aa197531b55718c2e/artifacts
+end_time: 1702911628774
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 9e3adf74faa64a0aa197531b55718c2e
+run_name: lyrical-gnat-666
+run_uuid: 9e3adf74faa64a0aa197531b55718c2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702911628660
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/a3c623e159a54a188bdaa35979c5d1f2/artifacts
+end_time: 1702960908716
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: a3c623e159a54a188bdaa35979c5d1f2
+run_name: aged-skunk-381
+run_uuid: a3c623e159a54a188bdaa35979c5d1f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960908629
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/032b480c2d1f4f1e87d6efe41d209a29/artifacts
+end_time: 1702910683104
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 032b480c2d1f4f1e87d6efe41d209a29
+run_name: resilient-jay-111
+run_uuid: 032b480c2d1f4f1e87d6efe41d209a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910683022
+status: 3
+tags: []
+user_id: awscl

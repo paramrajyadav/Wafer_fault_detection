@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/c15cd1cc85064fe38d8c878ae55f124c/artifacts
+end_time: 1702966249211
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: c15cd1cc85064fe38d8c878ae55f124c
+run_name: enthused-quail-900
+run_uuid: c15cd1cc85064fe38d8c878ae55f124c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966249094
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/9db1edc0271b408da58e255dd8f0f485/artifacts
+end_time: 1702960901926
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 9db1edc0271b408da58e255dd8f0f485
+run_name: ambitious-doe-532
+run_uuid: 9db1edc0271b408da58e255dd8f0f485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960901803
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/b32a8da3c1154b9e8267182612474411/artifacts
+end_time: 1702968281330
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: b32a8da3c1154b9e8267182612474411
+run_name: calm-hog-181
+run_uuid: b32a8da3c1154b9e8267182612474411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968281198
+status: 3
+tags: []
+user_id: awscl

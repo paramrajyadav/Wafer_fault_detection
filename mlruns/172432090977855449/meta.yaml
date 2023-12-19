@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449
+creation_time: 1702910718531
+experiment_id: '172432090977855449'
+last_update_time: 1702910718531
+lifecycle_stage: active
+name: xgboost_hyperparameter_tuning_recall

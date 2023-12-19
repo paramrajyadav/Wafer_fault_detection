@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/24d9c01f854d49d9b655366cb11f438d/artifacts
+end_time: 1702969107188
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 24d9c01f854d49d9b655366cb11f438d
+run_name: agreeable-whale-430
+run_uuid: 24d9c01f854d49d9b655366cb11f438d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702969107067
+status: 3
+tags: []
+user_id: awscl

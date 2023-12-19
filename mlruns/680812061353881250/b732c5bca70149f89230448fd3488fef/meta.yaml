@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/b732c5bca70149f89230448fd3488fef/artifacts
+end_time: 1702966287464
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: b732c5bca70149f89230448fd3488fef
+run_name: flawless-stoat-52
+run_uuid: b732c5bca70149f89230448fd3488fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966287362
+status: 3
+tags: []
+user_id: awscl

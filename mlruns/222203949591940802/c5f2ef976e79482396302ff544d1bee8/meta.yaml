@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/c5f2ef976e79482396302ff544d1bee8/artifacts
+end_time: 1702910698666
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: c5f2ef976e79482396302ff544d1bee8
+run_name: fun-crane-404
+run_uuid: c5f2ef976e79482396302ff544d1bee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910698588
+status: 3
+tags: []
+user_id: awscl

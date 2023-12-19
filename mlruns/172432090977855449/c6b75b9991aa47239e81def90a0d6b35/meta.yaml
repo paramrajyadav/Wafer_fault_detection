@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/c6b75b9991aa47239e81def90a0d6b35/artifacts
+end_time: 1702967815122
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: c6b75b9991aa47239e81def90a0d6b35
+run_name: flawless-swan-682
+run_uuid: c6b75b9991aa47239e81def90a0d6b35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702967815008
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/4b444544fdd842e999b6c94c733e7ec5/artifacts
+end_time: 1702910696764
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 4b444544fdd842e999b6c94c733e7ec5
+run_name: nimble-chimp-547
+run_uuid: 4b444544fdd842e999b6c94c733e7ec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910696687
+status: 3
+tags: []
+user_id: awscl

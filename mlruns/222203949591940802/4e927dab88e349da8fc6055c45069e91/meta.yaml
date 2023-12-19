@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/4e927dab88e349da8fc6055c45069e91/artifacts
+end_time: 1702960881114
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 4e927dab88e349da8fc6055c45069e91
+run_name: caring-toad-43
+run_uuid: 4e927dab88e349da8fc6055c45069e91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960880991
+status: 3
+tags: []
+user_id: awscl

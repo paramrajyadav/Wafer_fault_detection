@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/2c1a39b419b345979c03ac5d9ec12b98/artifacts
+end_time: 1702910686938
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 2c1a39b419b345979c03ac5d9ec12b98
+run_name: peaceful-auk-798
+run_uuid: 2c1a39b419b345979c03ac5d9ec12b98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910686862
+status: 3
+tags: []
+user_id: awscl

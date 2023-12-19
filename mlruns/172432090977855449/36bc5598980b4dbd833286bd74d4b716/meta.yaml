@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/36bc5598980b4dbd833286bd74d4b716/artifacts
+end_time: 1702961218910
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 36bc5598980b4dbd833286bd74d4b716
+run_name: bedecked-quail-30
+run_uuid: 36bc5598980b4dbd833286bd74d4b716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702961218777
+status: 3
+tags: []
+user_id: awscl

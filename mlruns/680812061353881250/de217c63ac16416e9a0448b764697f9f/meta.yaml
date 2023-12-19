@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/de217c63ac16416e9a0448b764697f9f/artifacts
+end_time: 1702966317318
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: de217c63ac16416e9a0448b764697f9f
+run_name: respected-loon-664
+run_uuid: de217c63ac16416e9a0448b764697f9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966317205
+status: 3
+tags: []
+user_id: awscl

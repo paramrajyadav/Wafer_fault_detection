@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/6dee27465fad4524b914dfa37890290f/artifacts
+end_time: 1702910695686
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 6dee27465fad4524b914dfa37890290f
+run_name: chill-lamb-951
+run_uuid: 6dee27465fad4524b914dfa37890290f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910695591
+status: 3
+tags: []
+user_id: awscl

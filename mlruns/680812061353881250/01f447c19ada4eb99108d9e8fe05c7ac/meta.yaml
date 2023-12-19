@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/01f447c19ada4eb99108d9e8fe05c7ac/artifacts
+end_time: 1702966088163
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 01f447c19ada4eb99108d9e8fe05c7ac
+run_name: stately-gull-737
+run_uuid: 01f447c19ada4eb99108d9e8fe05c7ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966088062
+status: 3
+tags: []
+user_id: awscl

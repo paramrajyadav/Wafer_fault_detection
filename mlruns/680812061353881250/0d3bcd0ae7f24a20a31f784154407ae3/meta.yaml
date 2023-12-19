@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/0d3bcd0ae7f24a20a31f784154407ae3/artifacts
+end_time: 1702965986870
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 0d3bcd0ae7f24a20a31f784154407ae3
+run_name: salty-colt-566
+run_uuid: 0d3bcd0ae7f24a20a31f784154407ae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702965986690
+status: 3
+tags: []
+user_id: awscl

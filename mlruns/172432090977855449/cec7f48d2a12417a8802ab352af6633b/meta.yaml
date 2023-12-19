@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/cec7f48d2a12417a8802ab352af6633b/artifacts
+end_time: 1702910742142
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: cec7f48d2a12417a8802ab352af6633b
+run_name: calm-croc-268
+run_uuid: cec7f48d2a12417a8802ab352af6633b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910741904
+status: 3
+tags: []
+user_id: awscl

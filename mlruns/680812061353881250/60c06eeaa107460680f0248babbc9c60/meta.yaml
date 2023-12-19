@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/60c06eeaa107460680f0248babbc9c60/artifacts
+end_time: 1702965797685
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 60c06eeaa107460680f0248babbc9c60
+run_name: melodic-mare-673
+run_uuid: 60c06eeaa107460680f0248babbc9c60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702965797573
+status: 3
+tags: []
+user_id: awscl

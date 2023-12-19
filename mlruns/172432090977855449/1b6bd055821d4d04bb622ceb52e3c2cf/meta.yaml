@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/1b6bd055821d4d04bb622ceb52e3c2cf/artifacts
+end_time: 1702961741120
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 1b6bd055821d4d04bb622ceb52e3c2cf
+run_name: orderly-fawn-146
+run_uuid: 1b6bd055821d4d04bb622ceb52e3c2cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702961741007
+status: 3
+tags: []
+user_id: awscl

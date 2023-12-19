@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/4d89697ff1e749cc824248ab94149b42/artifacts
+end_time: 1702966232884
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 4d89697ff1e749cc824248ab94149b42
+run_name: big-owl-590
+run_uuid: 4d89697ff1e749cc824248ab94149b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966232771
+status: 3
+tags: []
+user_id: awscl

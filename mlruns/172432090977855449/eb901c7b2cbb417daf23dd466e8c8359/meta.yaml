@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/eb901c7b2cbb417daf23dd466e8c8359/artifacts
+end_time: 1702968199034
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: eb901c7b2cbb417daf23dd466e8c8359
+run_name: spiffy-hawk-3
+run_uuid: eb901c7b2cbb417daf23dd466e8c8359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968198928
+status: 3
+tags: []
+user_id: awscl

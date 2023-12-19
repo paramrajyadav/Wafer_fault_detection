@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/df0f571ef16f4d5e80e62d3f5b4628bd/artifacts
+end_time: 1702968206126
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: df0f571ef16f4d5e80e62d3f5b4628bd
+run_name: intrigued-hound-204
+run_uuid: df0f571ef16f4d5e80e62d3f5b4628bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968206015
+status: 3
+tags: []
+user_id: awscl

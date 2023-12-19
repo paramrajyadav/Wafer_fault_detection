@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/f42e561d41d5463ea0d94d113ad38c32/artifacts
+end_time: 1702910675279
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: f42e561d41d5463ea0d94d113ad38c32
+run_name: thundering-pug-845
+run_uuid: f42e561d41d5463ea0d94d113ad38c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910675194
+status: 3
+tags: []
+user_id: awscl

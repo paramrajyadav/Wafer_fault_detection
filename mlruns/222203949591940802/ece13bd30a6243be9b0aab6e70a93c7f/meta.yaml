@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/ece13bd30a6243be9b0aab6e70a93c7f/artifacts
+end_time: 1702960899440
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: ece13bd30a6243be9b0aab6e70a93c7f
+run_name: exultant-cow-99
+run_uuid: ece13bd30a6243be9b0aab6e70a93c7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960899315
+status: 3
+tags: []
+user_id: awscl

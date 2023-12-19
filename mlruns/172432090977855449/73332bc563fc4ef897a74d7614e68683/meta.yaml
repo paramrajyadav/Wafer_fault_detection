@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/73332bc563fc4ef897a74d7614e68683/artifacts
+end_time: 1702968638324
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 73332bc563fc4ef897a74d7614e68683
+run_name: rambunctious-cub-523
+run_uuid: 73332bc563fc4ef897a74d7614e68683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968638203
+status: 3
+tags: []
+user_id: awscl

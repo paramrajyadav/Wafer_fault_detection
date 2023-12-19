@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/62f74dab6b3047dda6728034a724b18b/artifacts
+end_time: 1702910694040
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 62f74dab6b3047dda6728034a724b18b
+run_name: delicate-hound-388
+run_uuid: 62f74dab6b3047dda6728034a724b18b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910693957
+status: 3
+tags: []
+user_id: awscl

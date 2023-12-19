@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/bae6767e33fc40ce87a928e39e5b0d8b/artifacts
+end_time: 1702966073343
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: bae6767e33fc40ce87a928e39e5b0d8b
+run_name: sneaky-rook-454
+run_uuid: bae6767e33fc40ce87a928e39e5b0d8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966073212
+status: 3
+tags: []
+user_id: awscl

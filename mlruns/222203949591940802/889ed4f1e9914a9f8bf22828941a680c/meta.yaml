@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/889ed4f1e9914a9f8bf22828941a680c/artifacts
+end_time: 1702910689021
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 889ed4f1e9914a9f8bf22828941a680c
+run_name: nebulous-snipe-321
+run_uuid: 889ed4f1e9914a9f8bf22828941a680c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910688937
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/bba96b27f6614c7c96b6293339941472/artifacts
+end_time: 1702963307319
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: bba96b27f6614c7c96b6293339941472
+run_name: dashing-dog-463
+run_uuid: bba96b27f6614c7c96b6293339941472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702963307202
+status: 3
+tags: []
+user_id: awscl

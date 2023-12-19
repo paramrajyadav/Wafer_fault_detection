@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/6ac4deb02a4a48f2a3995dd74624d2e1/artifacts
+end_time: 1702965814514
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 6ac4deb02a4a48f2a3995dd74624d2e1
+run_name: mercurial-foal-179
+run_uuid: 6ac4deb02a4a48f2a3995dd74624d2e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702965814417
+status: 3
+tags: []
+user_id: awscl

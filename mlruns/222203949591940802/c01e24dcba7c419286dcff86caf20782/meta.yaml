@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/c01e24dcba7c419286dcff86caf20782/artifacts
+end_time: 1702910668438
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: c01e24dcba7c419286dcff86caf20782
+run_name: ambitious-boar-643
+run_uuid: c01e24dcba7c419286dcff86caf20782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910668300
+status: 3
+tags: []
+user_id: awscl

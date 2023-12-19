@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/b570490d34394dc9b4b2703c23261054/artifacts
+end_time: 1702968188331
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: b570490d34394dc9b4b2703c23261054
+run_name: abrasive-conch-537
+run_uuid: b570490d34394dc9b4b2703c23261054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968188201
+status: 3
+tags: []
+user_id: awscl

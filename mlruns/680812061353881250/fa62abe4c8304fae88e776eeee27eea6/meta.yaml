@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/fa62abe4c8304fae88e776eeee27eea6/artifacts
+end_time: 1702965902203
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: fa62abe4c8304fae88e776eeee27eea6
+run_name: rare-colt-36
+run_uuid: fa62abe4c8304fae88e776eeee27eea6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702965902108
+status: 3
+tags: []
+user_id: awscl

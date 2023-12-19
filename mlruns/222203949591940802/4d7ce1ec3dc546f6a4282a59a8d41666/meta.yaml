@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/4d7ce1ec3dc546f6a4282a59a8d41666/artifacts
+end_time: 1702960896116
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 4d7ce1ec3dc546f6a4282a59a8d41666
+run_name: righteous-bass-40
+run_uuid: 4d7ce1ec3dc546f6a4282a59a8d41666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960895999
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/39ca83848c39408c86ec98f315ef2cc3/artifacts
+end_time: 1702965799235
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 39ca83848c39408c86ec98f315ef2cc3
+run_name: classy-bee-58
+run_uuid: 39ca83848c39408c86ec98f315ef2cc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702965799137
+status: 3
+tags: []
+user_id: awscl

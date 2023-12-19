@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/0c11a85eae3e49c8aa3b943c4a1b6d8f/artifacts
+end_time: 1702963769437
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 0c11a85eae3e49c8aa3b943c4a1b6d8f
+run_name: receptive-hound-972
+run_uuid: 0c11a85eae3e49c8aa3b943c4a1b6d8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702963769322
+status: 3
+tags: []
+user_id: awscl

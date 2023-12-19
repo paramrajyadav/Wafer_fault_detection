@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/1a1ab1636c7348cf89684ffcf0fcc0cb/artifacts
+end_time: 1702961022149
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 1a1ab1636c7348cf89684ffcf0fcc0cb
+run_name: auspicious-yak-832
+run_uuid: 1a1ab1636c7348cf89684ffcf0fcc0cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702961022045
+status: 3
+tags: []
+user_id: awscl

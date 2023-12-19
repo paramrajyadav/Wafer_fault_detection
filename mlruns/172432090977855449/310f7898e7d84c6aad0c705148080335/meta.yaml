@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/310f7898e7d84c6aad0c705148080335/artifacts
+end_time: 1702968285388
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 310f7898e7d84c6aad0c705148080335
+run_name: painted-ape-292
+run_uuid: 310f7898e7d84c6aad0c705148080335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968285258
+status: 3
+tags: []
+user_id: awscl

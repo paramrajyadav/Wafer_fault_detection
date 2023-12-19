@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/08451b3a4d5d45b0bdeffb64185db97a/artifacts
+end_time: 1702910663766
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 08451b3a4d5d45b0bdeffb64185db97a
+run_name: nebulous-bee-998
+run_uuid: 08451b3a4d5d45b0bdeffb64185db97a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910663623
+status: 3
+tags: []
+user_id: awscl

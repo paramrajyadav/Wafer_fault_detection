@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/8f6058313c19485b962ad60b7f366abe/artifacts
+end_time: 1702910854057
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 8f6058313c19485b962ad60b7f366abe
+run_name: intelligent-carp-270
+run_uuid: 8f6058313c19485b962ad60b7f366abe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910853938
+status: 3
+tags: []
+user_id: awscl

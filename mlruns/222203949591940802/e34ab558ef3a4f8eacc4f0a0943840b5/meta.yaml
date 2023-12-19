@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/e34ab558ef3a4f8eacc4f0a0943840b5/artifacts
+end_time: 1702910690056
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: e34ab558ef3a4f8eacc4f0a0943840b5
+run_name: wistful-hound-623
+run_uuid: e34ab558ef3a4f8eacc4f0a0943840b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910689975
+status: 3
+tags: []
+user_id: awscl

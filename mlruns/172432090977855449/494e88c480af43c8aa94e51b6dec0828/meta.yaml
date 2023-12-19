@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/494e88c480af43c8aa94e51b6dec0828/artifacts
+end_time: 1702961122428
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 494e88c480af43c8aa94e51b6dec0828
+run_name: rebellious-stag-40
+run_uuid: 494e88c480af43c8aa94e51b6dec0828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702961122323
+status: 3
+tags: []
+user_id: awscl

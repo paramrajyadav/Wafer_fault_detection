@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/bd5e34c4966f42329f4c7c499e69da32/artifacts
+end_time: 1702910689725
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: bd5e34c4966f42329f4c7c499e69da32
+run_name: puzzled-robin-222
+run_uuid: bd5e34c4966f42329f4c7c499e69da32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910689631
+status: 3
+tags: []
+user_id: awscl

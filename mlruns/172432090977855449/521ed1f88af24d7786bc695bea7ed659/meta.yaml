@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/521ed1f88af24d7786bc695bea7ed659/artifacts
+end_time: 1702968244084
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 521ed1f88af24d7786bc695bea7ed659
+run_name: inquisitive-calf-995
+run_uuid: 521ed1f88af24d7786bc695bea7ed659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968243963
+status: 3
+tags: []
+user_id: awscl

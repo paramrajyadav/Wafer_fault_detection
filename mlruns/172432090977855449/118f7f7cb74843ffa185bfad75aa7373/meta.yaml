@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/118f7f7cb74843ffa185bfad75aa7373/artifacts
+end_time: 1702969005238
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 118f7f7cb74843ffa185bfad75aa7373
+run_name: brawny-grub-789
+run_uuid: 118f7f7cb74843ffa185bfad75aa7373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702969005105
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/ab505ebdcc1a443081c96c6452c5a5d1/artifacts
+end_time: 1702910660737
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: ab505ebdcc1a443081c96c6452c5a5d1
+run_name: crawling-zebra-657
+run_uuid: ab505ebdcc1a443081c96c6452c5a5d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910660633
+status: 3
+tags: []
+user_id: awscl

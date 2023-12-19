@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/f13b0660eb79442f87c2cd88e640974d/artifacts
+end_time: 1702966013041
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: f13b0660eb79442f87c2cd88e640974d
+run_name: luminous-wren-920
+run_uuid: f13b0660eb79442f87c2cd88e640974d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966012876
+status: 3
+tags: []
+user_id: awscl

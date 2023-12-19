@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/62967145b65d4ec484b2d87e43c3f546/artifacts
+end_time: 1702960896503
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 62967145b65d4ec484b2d87e43c3f546
+run_name: whimsical-slug-720
+run_uuid: 62967145b65d4ec484b2d87e43c3f546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960896369
+status: 3
+tags: []
+user_id: awscl

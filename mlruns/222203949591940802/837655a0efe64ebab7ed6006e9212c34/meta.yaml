@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/837655a0efe64ebab7ed6006e9212c34/artifacts
+end_time: 1702960915727
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 837655a0efe64ebab7ed6006e9212c34
+run_name: amazing-gull-201
+run_uuid: 837655a0efe64ebab7ed6006e9212c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960915633
+status: 3
+tags: []
+user_id: awscl

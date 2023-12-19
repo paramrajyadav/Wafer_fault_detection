@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/883354583bbe4c4486bea6783bb50265/artifacts
+end_time: 1702960916025
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 883354583bbe4c4486bea6783bb50265
+run_name: trusting-asp-182
+run_uuid: 883354583bbe4c4486bea6783bb50265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960915935
+status: 3
+tags: []
+user_id: awscl

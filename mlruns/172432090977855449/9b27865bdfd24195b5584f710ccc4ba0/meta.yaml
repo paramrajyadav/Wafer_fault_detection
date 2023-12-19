@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/9b27865bdfd24195b5584f710ccc4ba0/artifacts
+end_time: 1702965017681
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 9b27865bdfd24195b5584f710ccc4ba0
+run_name: glamorous-snail-820
+run_uuid: 9b27865bdfd24195b5584f710ccc4ba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702965017556
+status: 3
+tags: []
+user_id: awscl

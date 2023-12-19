@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802
+creation_time: 1702910658459
+experiment_id: '222203949591940802'
+last_update_time: 1702910658459
+lifecycle_stage: active
+name: decision_tree_hyperparameter_tuning_recall

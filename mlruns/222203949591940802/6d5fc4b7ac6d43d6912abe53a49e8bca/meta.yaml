@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/6d5fc4b7ac6d43d6912abe53a49e8bca/artifacts
+end_time: 1702910699343
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 6d5fc4b7ac6d43d6912abe53a49e8bca
+run_name: rare-smelt-554
+run_uuid: 6d5fc4b7ac6d43d6912abe53a49e8bca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910699259
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/a21fe103fc5b4e8b81507919351d8e72/artifacts
+end_time: 1702910662613
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: a21fe103fc5b4e8b81507919351d8e72
+run_name: nosy-donkey-841
+run_uuid: a21fe103fc5b4e8b81507919351d8e72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910662410
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/fed9d09dbc3b473b8d760c2a978ba30a/artifacts
+end_time: 1702960892100
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: fed9d09dbc3b473b8d760c2a978ba30a
+run_name: casual-pug-38
+run_uuid: fed9d09dbc3b473b8d760c2a978ba30a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960891983
+status: 3
+tags: []
+user_id: awscl

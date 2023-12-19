@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/2aaaf54edc8642c4bb6786ead8ecf5ca/artifacts
+end_time: 1702966070406
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 2aaaf54edc8642c4bb6786ead8ecf5ca
+run_name: legendary-trout-306
+run_uuid: 2aaaf54edc8642c4bb6786ead8ecf5ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966070264
+status: 3
+tags: []
+user_id: awscl

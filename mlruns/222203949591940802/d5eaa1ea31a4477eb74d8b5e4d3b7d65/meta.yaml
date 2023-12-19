@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/d5eaa1ea31a4477eb74d8b5e4d3b7d65/artifacts
+end_time: 1702960904808
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: d5eaa1ea31a4477eb74d8b5e4d3b7d65
+run_name: stately-hound-564
+run_uuid: d5eaa1ea31a4477eb74d8b5e4d3b7d65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960904706
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/33e28e580dcf45989c40567c4bfe80e1/artifacts
+end_time: 1702966231856
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 33e28e580dcf45989c40567c4bfe80e1
+run_name: wise-mule-842
+run_uuid: 33e28e580dcf45989c40567c4bfe80e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966231753
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/83f7c9e732c741418a9ef7f62714ea43/artifacts
+end_time: 1702910999294
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 83f7c9e732c741418a9ef7f62714ea43
+run_name: selective-duck-642
+run_uuid: 83f7c9e732c741418a9ef7f62714ea43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910999174
+status: 3
+tags: []
+user_id: awscl

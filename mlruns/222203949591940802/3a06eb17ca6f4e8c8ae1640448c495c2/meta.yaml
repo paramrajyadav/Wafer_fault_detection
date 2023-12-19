@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/3a06eb17ca6f4e8c8ae1640448c495c2/artifacts
+end_time: 1702910688815
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 3a06eb17ca6f4e8c8ae1640448c495c2
+run_name: overjoyed-donkey-991
+run_uuid: 3a06eb17ca6f4e8c8ae1640448c495c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910688737
+status: 3
+tags: []
+user_id: awscl

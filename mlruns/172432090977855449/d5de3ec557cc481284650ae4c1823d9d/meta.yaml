@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/d5de3ec557cc481284650ae4c1823d9d/artifacts
+end_time: 1702910728104
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: d5de3ec557cc481284650ae4c1823d9d
+run_name: worried-lark-746
+run_uuid: d5de3ec557cc481284650ae4c1823d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910727984
+status: 3
+tags: []
+user_id: awscl

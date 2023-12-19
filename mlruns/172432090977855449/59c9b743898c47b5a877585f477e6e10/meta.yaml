@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/59c9b743898c47b5a877585f477e6e10/artifacts
+end_time: 1702911993338
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 59c9b743898c47b5a877585f477e6e10
+run_name: adventurous-rat-898
+run_uuid: 59c9b743898c47b5a877585f477e6e10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702911993191
+status: 3
+tags: []
+user_id: awscl

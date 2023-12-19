@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/eee470c55be14ea8aa186fec6e9a746f/artifacts
+end_time: 1702910670452
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: eee470c55be14ea8aa186fec6e9a746f
+run_name: gifted-doe-867
+run_uuid: eee470c55be14ea8aa186fec6e9a746f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910670325
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/7718fdcd6e91469a8ecc7e5973a09529/artifacts
+end_time: 1702960878630
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 7718fdcd6e91469a8ecc7e5973a09529
+run_name: funny-skink-36
+run_uuid: 7718fdcd6e91469a8ecc7e5973a09529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960878519
+status: 3
+tags: []
+user_id: awscl

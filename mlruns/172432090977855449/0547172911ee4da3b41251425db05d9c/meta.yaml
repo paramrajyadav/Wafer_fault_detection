@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/0547172911ee4da3b41251425db05d9c/artifacts
+end_time: 1702968260881
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 0547172911ee4da3b41251425db05d9c
+run_name: nervous-mole-274
+run_uuid: 0547172911ee4da3b41251425db05d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968260768
+status: 3
+tags: []
+user_id: awscl

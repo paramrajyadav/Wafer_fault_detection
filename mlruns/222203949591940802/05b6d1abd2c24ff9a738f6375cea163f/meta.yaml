@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/05b6d1abd2c24ff9a738f6375cea163f/artifacts
+end_time: 1702910690756
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 05b6d1abd2c24ff9a738f6375cea163f
+run_name: mercurial-steed-792
+run_uuid: 05b6d1abd2c24ff9a738f6375cea163f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910690677
+status: 3
+tags: []
+user_id: awscl

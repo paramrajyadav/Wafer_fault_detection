@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/e047bda05f5840b0bca997701ab6b47a/artifacts
+end_time: 1702960911011
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: e047bda05f5840b0bca997701ab6b47a
+run_name: clumsy-hog-168
+run_uuid: e047bda05f5840b0bca997701ab6b47a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960910923
+status: 3
+tags: []
+user_id: awscl

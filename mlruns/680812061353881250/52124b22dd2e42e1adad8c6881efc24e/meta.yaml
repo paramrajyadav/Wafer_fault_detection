@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/52124b22dd2e42e1adad8c6881efc24e/artifacts
+end_time: 1702966251195
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 52124b22dd2e42e1adad8c6881efc24e
+run_name: suave-crow-447
+run_uuid: 52124b22dd2e42e1adad8c6881efc24e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966251096
+status: 3
+tags: []
+user_id: awscl

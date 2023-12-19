@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/a762e3b9d45e4da7bf8a6ccdaa5a8411/artifacts
+end_time: 1702968222205
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: a762e3b9d45e4da7bf8a6ccdaa5a8411
+run_name: gentle-goose-481
+run_uuid: a762e3b9d45e4da7bf8a6ccdaa5a8411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968222091
+status: 3
+tags: []
+user_id: awscl

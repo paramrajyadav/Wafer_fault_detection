@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/2d47a0a741b045d48d6092f3f2f7ba92/artifacts
+end_time: 1702966866163
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 2d47a0a741b045d48d6092f3f2f7ba92
+run_name: sneaky-hen-785
+run_uuid: 2d47a0a741b045d48d6092f3f2f7ba92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966866051
+status: 3
+tags: []
+user_id: awscl

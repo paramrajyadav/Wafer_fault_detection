@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/9ee30ddcf4f54552a432e07507e837a1/artifacts
+end_time: 1702966041028
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 9ee30ddcf4f54552a432e07507e837a1
+run_name: mercurial-shoat-990
+run_uuid: 9ee30ddcf4f54552a432e07507e837a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966040922
+status: 3
+tags: []
+user_id: awscl

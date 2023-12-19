@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/064ed8e2a9a64cdba6816cd591f311ca/artifacts
+end_time: 1702966159758
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 064ed8e2a9a64cdba6816cd591f311ca
+run_name: rogue-moth-109
+run_uuid: 064ed8e2a9a64cdba6816cd591f311ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966159601
+status: 3
+tags: []
+user_id: awscl

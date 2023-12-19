@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/2188c0e3e16d433e905a0ffc0a5088f3/artifacts
+end_time: 1702967201402
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 2188c0e3e16d433e905a0ffc0a5088f3
+run_name: intrigued-yak-945
+run_uuid: 2188c0e3e16d433e905a0ffc0a5088f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702967201266
+status: 3
+tags: []
+user_id: awscl

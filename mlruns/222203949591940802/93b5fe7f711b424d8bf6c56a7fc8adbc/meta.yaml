@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/93b5fe7f711b424d8bf6c56a7fc8adbc/artifacts
+end_time: 1702960891687
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 93b5fe7f711b424d8bf6c56a7fc8adbc
+run_name: redolent-goose-33
+run_uuid: 93b5fe7f711b424d8bf6c56a7fc8adbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960891572
+status: 3
+tags: []
+user_id: awscl

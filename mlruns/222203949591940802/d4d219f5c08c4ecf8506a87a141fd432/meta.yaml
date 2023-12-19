@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/d4d219f5c08c4ecf8506a87a141fd432/artifacts
+end_time: 1702910718187
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: d4d219f5c08c4ecf8506a87a141fd432
+run_name: crawling-hen-17
+run_uuid: d4d219f5c08c4ecf8506a87a141fd432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910704412
+status: 3
+tags: []
+user_id: awscl

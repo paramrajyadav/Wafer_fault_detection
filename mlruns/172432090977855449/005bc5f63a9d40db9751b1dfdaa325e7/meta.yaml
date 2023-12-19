@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/005bc5f63a9d40db9751b1dfdaa325e7/artifacts
+end_time: 1702965231065
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 005bc5f63a9d40db9751b1dfdaa325e7
+run_name: mercurial-robin-930
+run_uuid: 005bc5f63a9d40db9751b1dfdaa325e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702965230937
+status: 3
+tags: []
+user_id: awscl

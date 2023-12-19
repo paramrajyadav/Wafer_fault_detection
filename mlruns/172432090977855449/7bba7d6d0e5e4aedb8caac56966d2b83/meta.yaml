@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/7bba7d6d0e5e4aedb8caac56966d2b83/artifacts
+end_time: 1702968988212
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 7bba7d6d0e5e4aedb8caac56966d2b83
+run_name: merciful-cow-916
+run_uuid: 7bba7d6d0e5e4aedb8caac56966d2b83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968988098
+status: 3
+tags: []
+user_id: awscl

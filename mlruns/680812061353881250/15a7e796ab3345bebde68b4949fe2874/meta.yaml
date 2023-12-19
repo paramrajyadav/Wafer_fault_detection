@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/15a7e796ab3345bebde68b4949fe2874/artifacts
+end_time: 1702966272067
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 15a7e796ab3345bebde68b4949fe2874
+run_name: powerful-trout-938
+run_uuid: 15a7e796ab3345bebde68b4949fe2874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966271800
+status: 3
+tags: []
+user_id: awscl

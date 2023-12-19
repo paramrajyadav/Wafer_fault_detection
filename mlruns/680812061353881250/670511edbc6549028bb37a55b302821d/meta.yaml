@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/670511edbc6549028bb37a55b302821d/artifacts
+end_time: 1702966355143
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 670511edbc6549028bb37a55b302821d
+run_name: gaudy-crane-543
+run_uuid: 670511edbc6549028bb37a55b302821d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966355037
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/59c1608455bf4802bbe4e3bd41957c90/artifacts
+end_time: 1702968393362
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 59c1608455bf4802bbe4e3bd41957c90
+run_name: intrigued-fowl-880
+run_uuid: 59c1608455bf4802bbe4e3bd41957c90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968393246
+status: 3
+tags: []
+user_id: awscl

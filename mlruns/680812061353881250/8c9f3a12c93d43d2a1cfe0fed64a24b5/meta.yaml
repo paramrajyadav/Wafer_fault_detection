@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/8c9f3a12c93d43d2a1cfe0fed64a24b5/artifacts
+end_time: 1702965914926
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 8c9f3a12c93d43d2a1cfe0fed64a24b5
+run_name: bemused-cat-389
+run_uuid: 8c9f3a12c93d43d2a1cfe0fed64a24b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702965914829
+status: 3
+tags: []
+user_id: awscl

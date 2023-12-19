@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/33fb199cbc50474c99fedbe861876cea/artifacts
+end_time: 1702964696554
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 33fb199cbc50474c99fedbe861876cea
+run_name: bright-snipe-651
+run_uuid: 33fb199cbc50474c99fedbe861876cea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702964696442
+status: 3
+tags: []
+user_id: awscl

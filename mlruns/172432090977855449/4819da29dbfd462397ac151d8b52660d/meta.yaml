@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/4819da29dbfd462397ac151d8b52660d/artifacts
+end_time: 1702964699027
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 4819da29dbfd462397ac151d8b52660d
+run_name: skillful-ox-576
+run_uuid: 4819da29dbfd462397ac151d8b52660d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702964698915
+status: 3
+tags: []
+user_id: awscl

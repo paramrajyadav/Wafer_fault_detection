@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/6114b87ad61c403e979df9737eb1cb8a/artifacts
+end_time: 1702910735433
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 6114b87ad61c403e979df9737eb1cb8a
+run_name: magnificent-carp-341
+run_uuid: 6114b87ad61c403e979df9737eb1cb8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910735313
+status: 3
+tags: []
+user_id: awscl

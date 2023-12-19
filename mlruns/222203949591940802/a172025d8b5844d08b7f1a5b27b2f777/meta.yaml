@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/a172025d8b5844d08b7f1a5b27b2f777/artifacts
+end_time: 1702960906538
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: a172025d8b5844d08b7f1a5b27b2f777
+run_name: popular-wolf-584
+run_uuid: a172025d8b5844d08b7f1a5b27b2f777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960906431
+status: 3
+tags: []
+user_id: awscl

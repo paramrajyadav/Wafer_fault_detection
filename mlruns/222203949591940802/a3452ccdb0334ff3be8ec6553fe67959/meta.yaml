@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/a3452ccdb0334ff3be8ec6553fe67959/artifacts
+end_time: 1702960883881
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: a3452ccdb0334ff3be8ec6553fe67959
+run_name: receptive-shrew-422
+run_uuid: a3452ccdb0334ff3be8ec6553fe67959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960883723
+status: 3
+tags: []
+user_id: awscl

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/21a512496e47494589dbf8d5d232013a/artifacts
+end_time: 1702910694770
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 21a512496e47494589dbf8d5d232013a
+run_name: popular-fawn-22
+run_uuid: 21a512496e47494589dbf8d5d232013a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910694689
+status: 3
+tags: []
+user_id: awscl

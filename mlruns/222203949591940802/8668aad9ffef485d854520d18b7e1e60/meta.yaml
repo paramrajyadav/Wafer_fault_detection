@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/8668aad9ffef485d854520d18b7e1e60/artifacts
+end_time: 1702910702342
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 8668aad9ffef485d854520d18b7e1e60
+run_name: vaunted-shoat-305
+run_uuid: 8668aad9ffef485d854520d18b7e1e60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910702256
+status: 3
+tags: []
+user_id: awscl

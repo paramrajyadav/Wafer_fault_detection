@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/1547517076734effab67842dc179a942/artifacts
+end_time: 1702963020331
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 1547517076734effab67842dc179a942
+run_name: painted-snipe-151
+run_uuid: 1547517076734effab67842dc179a942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702963020206
+status: 3
+tags: []
+user_id: awscl

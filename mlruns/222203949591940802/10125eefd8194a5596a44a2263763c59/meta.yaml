@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/10125eefd8194a5596a44a2263763c59/artifacts
+end_time: 1702960886281
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 10125eefd8194a5596a44a2263763c59
+run_name: thoughtful-grub-586
+run_uuid: 10125eefd8194a5596a44a2263763c59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960886158
+status: 3
+tags: []
+user_id: awscl

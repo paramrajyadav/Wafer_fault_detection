@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/51799126eec940c7b3fc9f61d33060da/artifacts
+end_time: 1702960888606
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 51799126eec940c7b3fc9f61d33060da
+run_name: silent-mare-605
+run_uuid: 51799126eec940c7b3fc9f61d33060da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960888488
+status: 3
+tags: []
+user_id: awscl

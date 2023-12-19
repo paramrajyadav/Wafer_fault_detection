@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/46d0771bf5224854bad8e3954f41fb05/artifacts
+end_time: 1702968998515
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 46d0771bf5224854bad8e3954f41fb05
+run_name: defiant-colt-573
+run_uuid: 46d0771bf5224854bad8e3954f41fb05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968998399
+status: 3
+tags: []
+user_id: awscl

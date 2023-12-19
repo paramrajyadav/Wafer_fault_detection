@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/fcc7708176dc44c2ae8bb0e412289278/artifacts
+end_time: 1702964430524
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: fcc7708176dc44c2ae8bb0e412289278
+run_name: intelligent-swan-723
+run_uuid: fcc7708176dc44c2ae8bb0e412289278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702964430407
+status: 3
+tags: []
+user_id: awscl

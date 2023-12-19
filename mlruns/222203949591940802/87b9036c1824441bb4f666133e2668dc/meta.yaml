@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/87b9036c1824441bb4f666133e2668dc/artifacts
+end_time: 1702960897393
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: 87b9036c1824441bb4f666133e2668dc
+run_name: auspicious-owl-27
+run_uuid: 87b9036c1824441bb4f666133e2668dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960897217
+status: 3
+tags: []
+user_id: awscl

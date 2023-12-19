@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/5237d6b02ecf49a4879f1410ca391a49/artifacts
+end_time: 1702910982005
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 5237d6b02ecf49a4879f1410ca391a49
+run_name: upset-mule-230
+run_uuid: 5237d6b02ecf49a4879f1410ca391a49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910981899
+status: 3
+tags: []
+user_id: awscl

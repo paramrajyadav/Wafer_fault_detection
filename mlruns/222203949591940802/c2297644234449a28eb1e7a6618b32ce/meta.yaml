@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/222203949591940802/c2297644234449a28eb1e7a6618b32ce/artifacts
+end_time: 1702960914948
+entry_point_name: ''
+experiment_id: '222203949591940802'
+lifecycle_stage: active
+run_id: c2297644234449a28eb1e7a6618b32ce
+run_name: masked-quail-799
+run_uuid: c2297644234449a28eb1e7a6618b32ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702960914849
+status: 3
+tags: []
+user_id: awscl

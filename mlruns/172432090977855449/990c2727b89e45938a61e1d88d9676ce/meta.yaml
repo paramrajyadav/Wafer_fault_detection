@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/990c2727b89e45938a61e1d88d9676ce/artifacts
+end_time: 1702968196186
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: 990c2727b89e45938a61e1d88d9676ce
+run_name: mysterious-tern-68
+run_uuid: 990c2727b89e45938a61e1d88d9676ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968196069
+status: 3
+tags: []
+user_id: awscl

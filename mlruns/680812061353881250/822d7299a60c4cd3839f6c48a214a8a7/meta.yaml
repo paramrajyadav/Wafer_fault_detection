@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/822d7299a60c4cd3839f6c48a214a8a7/artifacts
+end_time: 1702965817830
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: 822d7299a60c4cd3839f6c48a214a8a7
+run_name: awesome-dog-981
+run_uuid: 822d7299a60c4cd3839f6c48a214a8a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702965817678
+status: 3
+tags: []
+user_id: awscl

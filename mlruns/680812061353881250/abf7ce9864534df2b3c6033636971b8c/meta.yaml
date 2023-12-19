@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/680812061353881250/abf7ce9864534df2b3c6033636971b8c/artifacts
+end_time: 1702966030673
+entry_point_name: ''
+experiment_id: '680812061353881250'
+lifecycle_stage: active
+run_id: abf7ce9864534df2b3c6033636971b8c
+run_name: unequaled-shad-574
+run_uuid: abf7ce9864534df2b3c6033636971b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702966030492
+status: 3
+tags: []
+user_id: awscl

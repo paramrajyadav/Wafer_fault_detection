@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/awscl/Desktop/wafer/Wafer_fault_detection/mlruns/172432090977855449/bf7348c1c2644c34bc9482f7fc209e3c/artifacts
+end_time: 1702964243338
+entry_point_name: ''
+experiment_id: '172432090977855449'
+lifecycle_stage: active
+run_id: bf7348c1c2644c34bc9482f7fc209e3c
+run_name: resilient-dog-461
+run_uuid: bf7348c1c2644c34bc9482f7fc209e3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702964243223
+status: 3
+tags: []
+user_id: awscl
