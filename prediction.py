@@ -36,7 +36,7 @@ def main():
         sys.exit("Error: Program stopped due to unmet conditions.")
 
 
-    model_dir = 'model'
+    model_dir = 'Model'
 
   
     p1 = joblib.load(os.path.join(model_dir, 'pipeline.joblib'))
