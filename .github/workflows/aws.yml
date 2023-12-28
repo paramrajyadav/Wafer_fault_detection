@@ -34,7 +34,7 @@ jobs:
           --build-arg AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID} \
           --build-arg AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY} \
           --build-arg S3_BUCKET=${S3_BUCKET} \
-          -t wafer .
+          -t wafer-fault-detection:latest .
 
     - name: Login to Docker Hub
       run: docker login -u ${{ secrets.DOCKER_HUB_USERNAME }} -p "${{ secrets.DOCKER_HUB_PASSWORD }}"
