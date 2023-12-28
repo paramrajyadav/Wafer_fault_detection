@@ -36,7 +36,7 @@ jobs:
     
     
     - name: Login to Docker Hub
-      run: docker login -u ${{ env.DOCKER_HUB_USERNAME }} -p ${{ env.DOCKER_HUB_PASSWORD }}
+      run: echo $DOCKER_HUB_PASSWORD | docker login -u $DOCKER_HUB_USERNAME --password-stdin
 
     - name: Tag Docker image for Docker Hub
       run: docker tag wafer ${{ env.DOCKER_HUB_REPO }}:latest
