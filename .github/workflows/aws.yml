@@ -12,8 +12,8 @@ jobs:
     env:
       AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
       AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-      AWS_REGION: your-aws-region
-      AWS_ECR_REGISTRY: your-account-id.dkr.ecr.your-aws-region.amazonaws.com
+      AWS_REGION: us-east-1
+      AWS_ECR_REGISTRY: 735323221469.dkr.ecr.your-aws-region.amazonaws.com
       S3_BUCKET: ${{ secrets.S3_BUCKET }}
       DOCKER_HUB_USERNAME: ${{ secrets.DOCKER_HUB_USERNAME }}
       DOCKER_HUB_PASSWORD: ${{ secrets.DOCKER_HUB_PASSWORD }}
@@ -49,10 +49,10 @@ jobs:
 
     - name: Login to AWS ECR
       run: |
-        aws ecr get-login-password --region ${{ env.AWS_REGION }} | docker login --username AWS --password-stdin ${{ env.AWS_ECR_REGISTRY }}
+        aws ecr-public get-login-password --region ${{ env.AWS_REGION }} | docker login --username AWS --password-stdin ${{ env.AWS_ECR_REGISTRY }}
 
     - name: Tag Docker image
       run: docker tag your-image-name ${{ env.AWS_ECR_REGISTRY }}/your-repository-name:latest
 
     - name: Push Docker image to AWS ECR
-      run: docker push ${{ env.AWS_ECR_REGISTRY }}/your-repository-name:latest
+      run: docker push ${{ env.AWS_ECR_REGISTRY }}/wafer-fault-detection:latest
