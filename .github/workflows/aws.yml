@@ -46,10 +46,9 @@ jobs:
 
     - name: Login to AWS ECR
       run: |
-        aws ecr-public get-login-password --region ${{ env.AWS_REGION }} | docker login --username AWS --password-stdin ${{ env.AWS_ECR_REGISTRY }}
-
+        aws ecr-public get-login-password --region us-east-1 | docker login --username AWS --password-stdin public.ecr.aws/y4v3k5t6
     - name: Tag Docker image for AWS ECR
-      run: docker tag wafer ${{ env.AWS_ECR_REGISTRY }}/wafer-fault-detection:latest
+      run: docker tag wafer-fault-detection:latest public.ecr.aws/y4v3k5t6/wafer-fault-detection:latest
 
     - name: Push Docker image to AWS ECR
       run: docker push ${{ env.AWS_ECR_REGISTRY }}/wafer-fault-detection:latest
