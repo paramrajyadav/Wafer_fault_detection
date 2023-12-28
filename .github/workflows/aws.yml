@@ -23,6 +23,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '16'  # Use Node.js version 16
+
     - name: Build Docker image
       run: |
         docker build \
@@ -31,10 +36,6 @@ jobs:
           --build-arg S3_BUCKET=${S3_BUCKET} \
           -t wafer .
 
-
-
-    
-    
     - name: Login to Docker Hub
       run: |
         echo $DOCKER_HUB_PASSWORD | docker login -u $DOCKER_HUB_USERNAME --password-stdin
@@ -45,15 +46,12 @@ jobs:
     - name: Push Docker image to Docker Hub
       run: docker push ${{ env.DOCKER_HUB_REPO }}:latest
 
-
-      
-
     - name: Login to AWS ECR
       run: |
         aws ecr-public get-login-password --region ${{ env.AWS_REGION }} | docker login --username AWS --password-stdin ${{ env.AWS_ECR_REGISTRY }}
 
-    - name: Tag Docker image
-      run: docker tag your-image-name ${{ env.AWS_ECR_REGISTRY }}/your-repository-name:latest
+    - name: Tag Docker image for AWS ECR
+      run: docker tag wafer ${{ env.AWS_ECR_REGISTRY }}/wafer-fault-detection:latest
 
     - name: Push Docker image to AWS ECR
       run: docker push ${{ env.AWS_ECR_REGISTRY }}/wafer-fault-detection:latest
